@@ -1,0 +1,65 @@
+body{
+  padding: 0;
+  margin: 0;
+  background-color: lavender;
+}
+.header{
+  text-align: center;
+  background-color: blue;
+  color: white;
+  font-weight: bolder;
+  padding: 10px;
+  
+}
+.header2{
+  font-weight: 100;
+  background-color: rgb(232, 233, 166);
+  padding: 5px;
+  border-bottom: 3px solid rgb(221, 207, 5) ;
+
+}
+.header3{
+   color: blue;
+   background-color: rgb(232, 233, 166);
+   border: 2px solid yellow;
+   border-radius: 15px;
+   width: 800px;
+   padding: 15px;
+   margin-left: 70px;
+}
+.header4{
+  color:gray;
+  margin-left: 70px;
+}
+.form1{
+  padding: 10px;
+border-radius: 7px;
+  margin-left: 30px;
+
+}
+.login1{
+  background-color: blue;
+  padding: 10px;
+  color: white;
+  width: 810px;
+  margin-left: 30px;
+  border-radius: 10px;
+}
+.login2{
+  background-color:rgb(41, 160, 41);
+  padding: 10px;
+  color: white;
+  width: 810px;
+  margin-left: 30px;
+  border-radius: 10px;
+
+}
+.main1{
+  color: gray;
+  margin-left: 30px;
+}
+.main2{
+  font-weight: inherit;
+  margin-left: 350px;
+
+}
